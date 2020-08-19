@@ -1,0 +1,7 @@
+
+html {
+    --main-border-radius: 8px;
+    --main-border: 1px solid darkslateblue;
+    --main-border-shadow: 2px 0px 0px 2px #888888;
+    --main-color: whitesmoke;
+}
