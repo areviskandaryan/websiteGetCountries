@@ -1,9 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: seashell;
+    background-image: url("https://img5.goodfon.ru/wallpaper/nbig/b/47/karta-mira-zemlia-fon-materiki.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
 
 * {
     box-sizing: border-box;
@@ -70,7 +73,8 @@ body {
     border: var(--main-border);
     border-radius: var(--main-border-radius);
     font-size: 16px;
-    background-color: steelblue;
+    background-color: #7ADD77 ;
+    color: var(--main-color);
     text-align: center;
     cursor: not-allowed;
 }
