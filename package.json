@@ -15,7 +15,7 @@
   ],
   "author": "Arev Iskandaryan",
   "license": "MIT",
-  "homepage":  "https://areviskandaryan.github.io/websiteGetCountries",
+  "homepage": "https://areviskandaryan.github.io/websiteGetCountries",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
   },
